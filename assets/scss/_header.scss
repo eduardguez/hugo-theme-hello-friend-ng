@@ -1,10 +1,11 @@
 .header {
-  background: #fafafa;
+  background: #252627;
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
   padding: 20px;
+  color: #fff;
 
   .dark-theme & {
     background: #252627;
